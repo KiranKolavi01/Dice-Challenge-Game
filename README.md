@@ -31,3 +31,23 @@ Here are a few snapshots of the Dice Challenge Game in action:
    ```bash
    git clone https://github.com/KiranKolavi01/Dice-Challenge-Game.git
 
+## 📁 Project Structure
+
+Dice-Challenge-Game/
+├── images/
+│ ├── dice1.png
+│ ├── ...dice6.png
+│ ├── Screenshot1.png
+│ ├── Screenshot2.png
+│ └── Screenshot3.png
+├── index.html
+├── index.js
+├── styles.css
+└── README.md
+
+
+## 🙌 Acknowledgements
+
+This project is part of my learning journey through web development. Inspired by beginner JavaScript challenges and personal curiosity!
+
+
