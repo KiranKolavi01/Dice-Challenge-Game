@@ -11,11 +11,19 @@ A fun and simple web-based dice game built using **HTML**, **CSS**, and **JavaSc
 - Using Git and GitHub for version control
 - Project structure and file organization
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-![Game Screenshot](images/dice6.png)
+Here are a few snapshots of the Dice Challenge Game in action:
 
-*(Replace with actual screenshot of the game UI if you'd like)*
+### 🔁 Dice Rolled - Player 1 Wins
+![Player 1 Wins](images/Screenshot1.png)
+
+### 🔁 Dice Rolled - Player 2 Wins
+![Player 2 Wins](images/Screenshot2.png)
+
+### 🤝 Draw Situation
+![Draw Result](images/Screenshot3.png)
+
 
 ## 🚀 How to Run the Game
 
